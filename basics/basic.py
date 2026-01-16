@@ -1,4 +1,16 @@
-print("Line 1")
+# print("Line 1")
 
-#data types
-print("words")
+# #data types
+# print("words") # stirng
+# print("words")
+# print(12344) # integers / ints
+# print(-939392)
+# print(1.5) # floating point value
+
+
+#operations
+print(3 + 3) # addittion
+print(3 - 3) # Subtraction
+print(3 * 3) # Multiplication
+print(3 / 3) # / division
+print(3 + 3.33223) 
