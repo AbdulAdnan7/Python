@@ -14,3 +14,5 @@ print(3 - 3) # Subtraction
 print(3 * 3) # Multiplication
 print(3 / 3) # / division
 print(3 + 3.33223) 
+# print(10 + "Hello") #  got type error
+print(10 * 'hello') #got hello 10xtimes
