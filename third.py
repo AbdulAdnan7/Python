@@ -1,15 +1,11 @@
-age = 19
+secret = 7
 
-marks = 20
 
-if age >= 18:
-    print("You are an adult")
-else: 
-   print("you are a minor")
+while True:
+    guess = int(input("Guess the number: "))
+    if guess == secret : 
+        print("Correct")
+        break
 
-if marks >= 90:
-    print("A grade")
-elif marks >= 70:
-    print("B grade")
-else:  
-    print("C grade")   
+    else:
+        print("Try again")
